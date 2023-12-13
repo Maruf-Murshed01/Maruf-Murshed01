@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Advance_MongoDB**
 - 💬 Ask me about **react, mern, express**
 - 👨‍💻 All of my projects are available at [https://blue-violet-anemone-tam.cyclic.app/](https://blue-violet-anemone-tam.cyclic.app/)
 - 📫 How to reach me **marufmurshedofficial@gmail.com**
