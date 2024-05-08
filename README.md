@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Mongoose**
-- 💬 Ask me about **react, mern, express**
+- 🌱 I’m currently learning **TypeScript**
+- 💬 Ask me about **React, MERN, Node.js**
 - 👨‍💻 All of my projects are available at [https://blue-violet-anemone-tam.cyclic.app/](https://blue-violet-anemone-tam.cyclic.app/)
 - 📫 How to reach me **marufmurshedofficial@gmail.com**
 
