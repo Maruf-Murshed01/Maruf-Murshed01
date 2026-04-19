@@ -2,5 +2,5 @@
 <h3 align="center">Associate Software Engineer</h3>
 
 
-- 💬 Ask me about **React, React Native, TypeScript, MERN, Node.js**
+- 💬 Ask me about **React, React Native, TypeScript, MERN, Node.js, Solito, Monorepo, Cross Platform application**
 - 📫 How to reach me **marufmurshedofficial@gmail.com**
