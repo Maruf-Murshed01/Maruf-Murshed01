@@ -3,4 +3,4 @@
 
 
 - 💬 Ask me about **React, React Native, TypeScript, MERN, Node.js, Solito, Monorepo, Cross Platform application**
-- 📫 How to reach me **marufmurshedofficial@gmail.com**
+- 📫 E-mail **marufmurshedofficial@gmail.com**
